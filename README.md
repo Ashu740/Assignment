@@ -3,8 +3,7 @@ Installation
 bash
 Copy
 Edit
-git clone https://github.com/your-repo/react-user-management.git
-cd react-user-management
+git clone 
 2. Install Dependencies
 Run the following command to install all required dependencies:
 npm install
