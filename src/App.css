@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.login, .user-list {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.user-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.user-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+  width: 150px;
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+}
