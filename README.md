@@ -1,3 +1,19 @@
+Installation
+1. Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/your-repo/react-user-management.git
+cd react-user-management
+2. Install Dependencies
+Run the following command to install all required dependencies:
+npm install
+This will install:
+
+React, React Router, Redux Toolkit, React Redux
+
+Tailwind CSS, PostCSS, and Autoprefixer
+
 Features
 Login and authentication using mock API.
 
